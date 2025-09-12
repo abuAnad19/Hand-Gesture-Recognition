@@ -1,0 +1,13 @@
+[project]
+name = "hand-gesture-recognition"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mediapipe>=0.10.5",
+    "opencv-python>=4.11.0",     
+    "Tensorflow>=2.19.0", 
+    "scikit-learn>=1.7.1", 
+    "matplotlib>=3.10.2", 
+]
