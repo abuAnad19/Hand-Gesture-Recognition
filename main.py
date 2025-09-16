@@ -863,10 +863,12 @@ def main():
 
         # Screen reflection
         cv.imshow('🤖 Robot Arm Hand Control 🚀', debug_image)
-
+#riyadh instructions
     cap.release()
     cv.destroyAllWindows()
     print("\n🛑 System shutdown complete.")
 
 if __name__ == '__main__':
     main()
+    
+    #riyadh test 2
